@@ -6,11 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/learnwithsumit/uptime-monitoring-api-raw-node">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Raw Node.js Project - Uptime Monitoring API</h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/uptime-monitoring-api-raw-node">Raw Node.js Project - Uptime Monitoring API</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
