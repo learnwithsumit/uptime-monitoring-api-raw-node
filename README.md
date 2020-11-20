@@ -25,19 +25,23 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    git clone https://github.com/learnwithsumit/uptime-monitoring-api-raw-node.git
    ```
-2. Install dev dependencies
+2. Go into cloned directory
+   ```sh
+   cd uptime-monitoring-api-raw-node
+   ```
+3. Install dev dependencies
    ```sh
    npm install
    ```
-3. Switch to specific branch for example lesson-2
+4. Switch to specific branch for example lesson-2
    ```sh
    git checkout lesson-2
    ```
-4. Run the app
+5. Run the app
    ```sh
    npm start
    ```
-5. Your app should be available in http://localhost:3000
+6. Your app should be available in http://localhost:3000
 
 <!-- CONTACT -->
 
