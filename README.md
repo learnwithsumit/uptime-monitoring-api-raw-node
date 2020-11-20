@@ -29,11 +29,15 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    npm install
    ```
-3. Run the app
+3. Switch to specific branch for example lesson-2
+   ```sh
+   git checkout lesson-2
+   ```
+4. Run the app
    ```sh
    npm start
    ```
-4. Your app should be available in http://localhost:3000
+5. Your app should be available in http://localhost:3000
 
 <!-- CONTACT -->
 
