@@ -1,2 +1,5 @@
 node_modules
 .vscode
+.data
+package-lock.json
+yarn.lock
