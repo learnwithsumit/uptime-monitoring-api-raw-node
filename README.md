@@ -13,6 +13,8 @@
 ## Table of Contents
 
 - [How to run](#how-to-run)
+  - [New Users](#new-users-who-never-cloned-this-repository-before)
+  - [Old Users](#old-users-who-previously-cloned-the-repository)
 - [Contact](#contact)
 
 <!-- HOW TO RUN -->
@@ -20,6 +22,8 @@
 ## How to run
 
 Please follow the below instructions to run this project in your machine:
+
+### New Users who never cloned this repository before
 
 1. Clone this repository
    ```sh
@@ -42,6 +46,14 @@ Please follow the below instructions to run this project in your machine:
    npm start
    ```
 6. Your app should be available in http://localhost:3000
+
+### Old users who previously cloned the repository
+
+Just pull the updated code and follow corresponding lesson README file
+
+```sh
+git pull
+```
 
 <!-- CONTACT -->
 
