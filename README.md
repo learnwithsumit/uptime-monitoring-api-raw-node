@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/uptime-monitoring-api-raw-node">Raw Node.js Project - Uptime Monitoring API - Lesson 2</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/uptime-monitoring-api-raw-node">Raw Node.js Project - Uptime Monitoring API - Lesson 3</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -29,14 +29,14 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    npm install
    ```
-3. Checkout to branch lesson-2
+3. Checkout to branch lesson-3
    ```sh
-   git checkout lesson-2
+   git checkout lesson-3
    ```
 4. Create 2 new folders in your root project
    ```sh
    mkdir .data
-   mkdir .data/test
+   mkdir .data/users
    ```
 5. Run the app
    ```sh
